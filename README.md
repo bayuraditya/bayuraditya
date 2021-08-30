@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayuraditya
 - 👀 I’m interested in all kind of coding stuff
-- 🌱 I’m currently learning data structure, javascript, and database
+- 🌱 I’m currently learning java and php
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me wa: +6285706264055
 
