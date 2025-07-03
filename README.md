@@ -20,13 +20,13 @@
 - Dynamic data management tools  
 
 🎯 Hobby & Interests:  
-- 🏸 Playing badminton (especially at **Imbo**)  
-- 🏃 Jogging  
-- 💻 Coding personal web projects
+- 💻 Coding web projects
+- 🏸 Playing badminton   
+- 🏃 Running
 
 📫 Reach me at:  
-[📧 Gmail](mailto:bayuraditya.dev@gmail.com)  
-[🌐 Website (optional)](https://yourwebsite.com)
+[📧 Gmail](mailto:bayuraditya@gmail.com)  
+[🌐 Website (optional)](https://bayuraditya.github.io)
 
 ---
 
