@@ -26,7 +26,7 @@
 
 📫 Reach me at:  
 [📧 Gmail](mailto:bayuraditya@gmail.com)  
-[🌐 Website (optional)](https://bayuraditya.github.io)
+[🌐 Website](https://bayuraditya.github.io)
 
 ---
 
